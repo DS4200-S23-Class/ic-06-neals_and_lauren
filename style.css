@@ -1,0 +1,26 @@
+body {
+	font-family: Arial;
+}
+
+.main-header {
+	text-align: center;
+}
+
+
+#frame {
+	width: 500px;
+	height: 500px;
+}
+
+line {
+	stroke: rgb(0,0,255);
+	stroke-width: 5;
+}
+
+.redLine {
+	stroke: rgb(255,0,0);
+}
+
+.orange {
+	fill: orange;
+}
